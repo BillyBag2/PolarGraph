@@ -10,7 +10,7 @@ class InterpolateRadii: public Interpolate
                      Coordinate y1,
                      Coordinate x2,
                      Coordinate y2,
-                     Coordinate DistanceBetweenMotors, // Distance beween the center of the motor shafts.
+                     Coordinate DistanceBetweenMotors, // Distance between the center of the motor shafts.
                      Coordinate CogRadious,
                      Coordinate maxStep);
     Coordinate R1(Index i);

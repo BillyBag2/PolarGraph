@@ -8,7 +8,7 @@ InterpolateRadii::InterpolateRadii(
   Coordinate y1,
   Coordinate x2,
   Coordinate y2,
-  Coordinate DistanceBetweenMotors, // Distance beween the center of the motor shafts.
+  Coordinate DistanceBetweenMotors, // Distance between the center of the motor shafts.
   Coordinate CogRadious,
   Coordinate maxStep) :
   Interpolate(x1, y1, x2, y2, maxStep),
